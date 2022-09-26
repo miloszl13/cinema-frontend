@@ -1,0 +1,24 @@
+.card {
+  margin: 10%;
+  padding: 1rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 14px;
+    background-color: white;
+    width: 70rem;
+  }
+  h1{
+    text-align: center;
+  }
+  .cinemaInfo{
+    display: flex;
+    justify-content: space-between;
+  }
+ .btn{
+    border-radius: 2px;
+    background-color: rgb(153, 41, 41);
+    color: white;
+    cursor: pointer;
+    font-size:large;
+    font-weight: 700;
+  }
+  

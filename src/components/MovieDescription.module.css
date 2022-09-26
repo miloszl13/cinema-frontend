@@ -1,0 +1,23 @@
+
+  .desc {
+    height: 350px;
+    width: 350px;
+    margin: 20px;
+   
+  }
+
+  
+  .desc div {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+  }
+  .btn{
+    color: white;
+    background-color: rgb(165, 16, 16);
+    font-size: large;
+    font-weight: 700;
+    cursor: pointer;
+  }
